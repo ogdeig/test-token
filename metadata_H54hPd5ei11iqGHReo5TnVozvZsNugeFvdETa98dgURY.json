@@ -3,7 +3,7 @@
   "symbol": "BCAT",
   "description": "Black Cat token",
   "image": "https://i.postimg.cc/rmngSLyN/Untitled-design.jpg",
-  "external_url": "https://yoursite.com",
+  "external_url": "https://SOLvend.xyz",
   "properties": {
     "files": [
       {
@@ -18,7 +18,7 @@
     "category": "image"
   },
   "extensions": {
-    "website": "https://yoursite.com",
+    "website": "https://SOLvend.xyz",
     "twitter": "https://x.com/yourhandle",
     "telegram": "https://t.me/yourgroup",
     "header": "https://i.postimg.cc/fTXphJTC/Untitled-design.jpg"
