@@ -7,8 +7,12 @@
   "properties": {
     "files": [
       {
-        "uri": "https://yourhost.com/logo.png",
-        "type": "image/png"
+        "uri": "https://i.postimg.cc/rmngSLyN/Untitled-design.jpg",
+        "type": "image/jpeg"
+      },
+      {
+        "uri": "https://i.postimg.cc/fTXphJTC/Untitled-design.jpg",
+        "type": "image/jpeg"
       }
     ],
     "category": "image"
