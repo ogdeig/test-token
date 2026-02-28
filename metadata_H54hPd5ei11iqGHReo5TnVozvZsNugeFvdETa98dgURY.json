@@ -1,0 +1,22 @@
+{
+  "name": "Black Cat",
+  "symbol": "BCAT",
+  "description": "Black Cat token",
+  "image": "https://i.postimg.cc/rmngSLyN/Untitled-design.jpg",
+  "external_url": "https://yoursite.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://yourhost.com/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "extensions": {
+    "website": "https://yoursite.com",
+    "twitter": "https://x.com/yourhandle",
+    "telegram": "https://t.me/yourgroup",
+    "header": "https://i.postimg.cc/fTXphJTC/Untitled-design.jpg"
+  }
+}
